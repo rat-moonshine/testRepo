@@ -1,2 +1,2 @@
 # testRepo
-For test purpose only
+For test purpose only.

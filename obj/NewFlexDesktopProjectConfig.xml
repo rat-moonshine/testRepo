@@ -5,11 +5,11 @@
   <target-player>11.1.0</target-player>
   <compiler>
     <source-path append="true">
-      <path-element>/Users/santanu/Desktop/testRepo/src</path-element>
+      <path-element>C:\Users\Santanu\Desktop\testRepo\src</path-element>
     </source-path>
   </compiler>
   <file-specs>
-    <path-element>/Users/santanu/Desktop/testRepo/src/NewFlexDesktopProject.mxml</path-element>
+    <path-element>C:\Users\Santanu\Desktop\testRepo\src\NewFlexDesktopProject.mxml</path-element>
   </file-specs>
   <default-background-color>#0F00FF</default-background-color>
   <default-frame-rate>60</default-frame-rate>
