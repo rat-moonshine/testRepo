@@ -8,7 +8,7 @@
 	
 	<fx:Script>
 		<![CDATA[
-			
+			private var abcd:String;
 		]]>
 	</fx:Script>
 	
