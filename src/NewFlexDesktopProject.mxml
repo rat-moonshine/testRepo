@@ -4,11 +4,12 @@
 					   xmlns:mx="library://ns.adobe.com/flex/mx" minWidth="955" minHeight="600">
 			   
 	<fx:Declarations>
+	
 	</fx:Declarations>
 	
 	<fx:Script>
 		<![CDATA[
-			private var abcd:String;
+			private var abcd:String; // dd ee
 		]]>
 	</fx:Script>
 	
