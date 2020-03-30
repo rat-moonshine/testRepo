@@ -5,6 +5,7 @@ package
 		private var test:String;
 		public function TestClass()
 		{
+		
 		}
 	}
 }
