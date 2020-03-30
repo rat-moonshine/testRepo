@@ -9,7 +9,7 @@
 	
 	<fx:Script>
 		<![CDATA[
-			private var abcd:String; // dd ee ff ff
+			private var abcd:String; // 
 		]]>
 	</fx:Script>
 	
